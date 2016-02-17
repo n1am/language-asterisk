@@ -1,0 +1,3 @@
+".source.asterisk.config":
+  editor:
+    commentStart: ";"
